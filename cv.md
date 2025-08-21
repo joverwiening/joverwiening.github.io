@@ -46,9 +46,9 @@ Private mathematics courses for students
 
 ## Awards & Recognition
 
-- **Erasmus** scholarship at Université Paris-Saclay, 2023, France
-- **Erasmus+** scholarship at NeuroPSI (CNRS), 2023, France
-- **Erasmus** scholarship at Dublin Institute of Technology, 2021, Ireland
+**Erasmus** scholarship at Université Paris-Saclay, 2023, France
+**Erasmus+** scholarship at NeuroPSI (CNRS), 2023, France
+**Erasmus** scholarship at Dublin Institute of Technology, 2021, Ireland
 
 <!--
 ## Research Experience

@@ -45,4 +45,4 @@ University of Münster</li>
 
 <p>For the most up-to-date list of publications, please visit my <a href="https://scholar.google.com/citations?user=XDpDiuYAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.</p>
 
-<p><a href="index.html">Back to Home</a></p>
+<p><a href="{{ site.baseurl }}/">Back to Home</a></p>

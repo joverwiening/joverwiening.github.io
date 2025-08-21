@@ -12,4 +12,4 @@ title: Photography
 
 <hr>
 
-<p><a href="index.html">Back to Home</a></p>
+<p><a href="{{ site.baseurl }}/">Back to Home</a></p>

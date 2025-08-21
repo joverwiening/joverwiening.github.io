@@ -10,21 +10,17 @@ title: Publications
 <h2>Journal Articles</h2>
 
 <ol>
-<li><strong>Title of First Publication</strong> (Year)<br>
-<em>Journal Name</em>, Volume(Issue), pages.<br>
-<a href="#" target="_blank">DOI/Link</a></li>
-
-<li><strong>Title of Second Publication</strong> (Year)<br>
-<em>Journal Name</em>, Volume(Issue), pages.<br>
-<a href="#" target="_blank">DOI/Link</a></li>
+<li><strong>A multi-scale study of thalamic state-dependent responsiveness</strong> (2024)<br>
+<em>PLOS Computational Biology</em>, 20(12), e1012262.<br>
+<a href="#" target="_blank">https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012262</a></li>
 </ol>
 
 <h2>Conference Papers</h2>
 
 <ol>
-<li><strong>Title of Conference Paper</strong> (Year)<br>
-<em>Conference Name</em>, Location.<br>
-<a href="#" target="_blank">DOI/Link</a></li>
+<li><strong>TeDFA-δ: Temporal integration in deep spiking networks trained with feedback alignment improves policy learning</strong> (2025)<br>
+<em>8th Annual Conference on Cognitive Computational Neuroscience</em>, Amsterdam.<br>
+<a href="#" target="_blank">https://2025.ccneuro.org/abstract_pdf/Overwiening_2025_TeDFA-delta_Temporal_integration_deep_spiking_networks.pdf</a></li>
 </ol>
 
 <h2>Preprints</h2>
@@ -38,11 +34,11 @@ title: Publications
 <h2>Theses</h2>
 
 <ul>
-<li><strong>Master's Thesis Title</strong> (Year)<br>
-Institution Name</li>
+<li><strong>A biologically realistic mean-field model of the thalamus.</strong> (2024)<br>
+University of Münster</li>
 
-<li><strong>Bachelor's Thesis Title</strong> (Year)<br>
-Institution Name</li>
+<li><strong>Neutralino-gluino coannihilation in the MSSM.</strong> (2021)<br>
+University of Münster</li>
 </ul>
 
 <hr>

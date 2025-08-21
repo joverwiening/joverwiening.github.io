@@ -244,3 +244,26 @@ section p { margin-bottom: 1em; line-height: 1.6; }
 /* Responsive design */
 @media print, screen and (max-width: 960px) { .navigation a { display: block; margin: 5px 0; text-align: center; }
   .social-links a { display: block; margin: 5px 0; text-align: center; } }
+/* CV Page Styling */
+.cv-header { background-color: #f6f8fa; padding: 20px; border-radius: 6px; border: 1px solid #e1e4e8; margin-bottom: 30px; text-align: center; }
+
+.cv-header h2 { margin-top: 0; color: #24292f; font-size: 1.8em; }
+
+.cv-header p { margin-bottom: 0; color: #586069; line-height: 1.6; }
+
+.cv-download { text-align: center; margin: 20px 0; padding: 15px; background-color: #fff5b4; border: 1px solid #d4ac0d; border-radius: 6px; }
+
+.cv-download a { color: #b7950b; font-weight: 600; text-decoration: none; font-size: 1.1em; }
+
+.cv-download a:hover { color: #935116; text-decoration: underline; }
+
+/* CV section styling */
+h3 { color: #0366d6; border-bottom: 1px solid #e1e4e8; padding-bottom: 5px; margin-top: 2em; }
+
+/* CV subsections */
+h3 + p { margin-top: 0.5em; }
+
+/* Better spacing for CV content */
+h2 + p, h3 + p { margin-top: 0.5em; }
+
+small { color: #586069; font-style: italic; }

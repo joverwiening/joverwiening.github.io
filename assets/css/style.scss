@@ -1,0 +1,100 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom styles for the website */
+.profile-section {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.profile-section img {
+  border: 3px solid #f0f0f0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.social-links {
+  margin: 20px 0;
+  padding: 15px 0;
+  border-top: 1px solid #e1e4e8;
+  border-bottom: 1px solid #e1e4e8;
+}
+
+.social-links a {
+  display: inline-block;
+  margin-right: 15px;
+  padding: 8px 12px;
+  text-decoration: none;
+  color: #0366d6;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.social-links a:hover {
+  background-color: #f6f8fa;
+  border-color: #d0d7de;
+  text-decoration: none;
+}
+
+.navigation {
+  margin: 20px 0;
+  background-color: #f6f8fa;
+  padding: 15px;
+  border-radius: 6px;
+  border: 1px solid #e1e4e8;
+}
+
+.navigation a {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 5px;
+  padding: 8px 12px;
+  text-decoration: none;
+  color: #24292f;
+  font-weight: 500;
+  border-radius: 6px;
+  transition: background-color 0.2s ease;
+}
+
+.navigation a:hover {
+  background-color: #ffffff;
+  text-decoration: none;
+}
+
+/* Publications list styling */
+ol, ul {
+  margin-bottom: 1.5em;
+}
+
+li {
+  margin-bottom: 0.8em;
+  line-height: 1.6;
+}
+
+/* Better spacing for content */
+section h1, section h2, section h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+section p {
+  margin-bottom: 1em;
+  line-height: 1.6;
+}
+
+/* Responsive design */
+@media print, screen and (max-width: 960px) {
+  .navigation a {
+    display: block;
+    margin: 5px 0;
+    text-align: center;
+  }
+  
+  .social-links a {
+    display: block;
+    margin: 5px 0;
+    text-align: center;
+  }
+}

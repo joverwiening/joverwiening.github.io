@@ -1,3 +1,27 @@
 theme: jekyll-theme-minimal
-title: Jorin's homepage
-description: Keep track on all my stuff.
+title: Jorin Overwiening
+description: Researcher and computational scientist
+author: Jorin Overwiening
+email: your.email@example.com
+url: "https://joverwiening.github.io"
+
+# Social links
+github_username: joverwiening
+linkedin_username: joverwiening
+linkedin_url: "https://www.linkedin.com/in/joverwiening/"
+google_scholar: "https://scholar.google.com/citations?user=XDpDiuYAAAAJ&hl=en"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
